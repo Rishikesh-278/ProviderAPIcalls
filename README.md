@@ -1,6 +1,6 @@
 # providerapi
 
-A new Flutter project.
+This project shows how to make API calls without using stateful widgets in flutter
 
 ## Getting Started
 
